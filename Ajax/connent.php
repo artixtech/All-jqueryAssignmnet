@@ -1,7 +1,7 @@
 ?php
 function createConnection(){
 $uname="root";
-$pwd="root";
+$pwd="java@123";
 $dbname="JQueryTable";
 $conn=null;
 try
